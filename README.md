@@ -1,16 +1,13 @@
-## Hi there 👋
+# Привет, я Nursaid 👋
+Мне [16], я из [Tashkent]. Учусь программировать на Python.
 
-<!--
-**n0228293838-netizen/n0228293838-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Мои проекты
+- **Telegram-бот**: меню с кнопками, написан на Python.
+  Бот: https://t.me/Urandmine_bot
+  Код: https://github.com/n0228293838-netizen/telegram_bot
 
-Here are some ideas to get you started:
+## Что умею
+Python, pyTelegramBotAPI, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Контакты
+Telegram: @Sovereign_001
